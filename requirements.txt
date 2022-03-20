@@ -1,0 +1,10 @@
+pydantic
+pydantic[dotenv]
+google-cloud-bigquery==2.34.2
+google-cloud-bigquery-storage==2.12.0
+protobuf==3.19.4
+
+black
+isort
+mypy
+flake8

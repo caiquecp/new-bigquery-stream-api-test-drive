@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+message Customer {
+
+  required string id = 1;
+  required string name = 2;
+  optional int32 score = 3;
+
+}
